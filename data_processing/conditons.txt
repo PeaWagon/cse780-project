@@ -1,0 +1,837 @@
+Left Ventricular Dysfunction                                           26
+ADHD                                                                   4509
+Birth Control                                                          38436
+Opiate Dependence                                                      1477
+Benign Prostatic Hyperplasia                                           726
+Emergency Contraception                                                3290
+Bipolar Disorde                                                        5604
+Epilepsy                                                               478
+Migraine Prevention                                                    1867
+Depression                                                             12164
+Crohn's Disease                                                        221
+Cough                                                                  1224
+Obesity                                                                4757
+Urinary Tract Infection                                                1747
+ibromyalgia                                                            2370
+Chronic Myelogenous Leukemia                                           115
+HIV Infection                                                          817
+Insomnia                                                               4904
+Rheumatoid Arthritis                                                   1315
+Vaginal Yeast Infection                                                3085
+Chlamydia Infection                                                    371
+Hirsutism                                                              122
+Panic Disorde                                                          1932
+Migraine                                                               2277
+                                                                       1194
+Pain                                                                   8245
+Irritable Bowel Syndrome                                               1339
+Osteoarthritis                                                         1626
+Constipation                                                           2120
+Bowel Preparation                                                      2498
+Psychosis                                                              98
+Muscle Spasm                                                           1631
+Hepatitis C                                                            901
+Overactive Bladde                                                      917
+Diabetes, Type 2                                                       3362
+Asthma, Maintenance                                                    659
+Non-Small Cell Lung Cance                                              134
+Schizophrenia                                                          789
+Dysuria                                                                101
+Smoking Cessation                                                      2440
+Anxiety                                                                7812
+Acne                                                                   7435
+emale Infertility                                                      87
+Constipation, Acute                                                    54
+Constipation, Drug Induced                                             305
+Erectile Dysfunction                                                   1467
+Trigeminal Neuralgia                                                   213
+Underactive Thyroid                                                    567
+Chronic Pain                                                           1940
+Atrophic Vaginitis                                                     235
+Skin and Structure Infection                                           72
+Tinnitus                                                               42
+Major Depressive Disorde                                               2131
+Anxiety and Stress                                                     2236
+Rosacea                                                                694
+High Blood Pressure                                                    3104
+Restless Legs Syndrome                                                 805
+Osteolytic Bone Metastases of Solid Tumors                             15
+Bronchitis                                                             707
+Skin or Soft Tissue Infection                                          281
+Obsessive Compulsive Disorde                                           752
+Endometriosis                                                          750
+Keratoconjunctivitis Sicca                                             80
+Breakthrough Pain                                                      47
+Seizures                                                               684
+Neuropathic Pain                                                       349
+Sedation                                                               228
+Menstrual Disorders                                                    477
+Allergic Rhinitis                                                      1323
+Anesthesia                                                             338
+Undifferentiated Connective Tissue Disease                             23
+Diabetes, Type 1                                                       185
+Abnormal Uterine Bleeding                                              2744
+Weight Loss                                                            4857
+Constipation, Chronic                                                  770
+Breast Cancer, Metastatic                                              128
+Period Pain                                                            187
+Helicobacter Pylori Infection                                          337
+Atrial Fibrillation                                                    347
+Uterine Fibroids                                                       66
+Kidney Infections                                                      149
+Generalized Anxiety Disorde                                            1542
+Asthma                                                                 302
+Postmenopausal Symptoms                                                449
+High Cholesterol                                                       817
+Hypogonadism, Male                                                     697
+Hyperthyroidism                                                        15
+Back Pain                                                              808
+Anaplastic Oligodendroglioma                                           5
+Sjogren's Syndrome                                                     68
+Asthma, acute                                                          169
+Hot Flashes                                                            322
+Herpes Simplex, Suppression                                            210
+Bacterial Infection                                                    1252
+Bursitis                                                               14
+Diaper Rash                                                            24
+Systemic Mastocytosis                                                  8
+Trichotillomania                                                       16
+Hashimoto's disease                                                    244
+Eczema                                                                 218
+Dental Abscess                                                         113
+Headache                                                               626
+Hypersomnia                                                            95
+Xerostomia                                                             27
+Breast Cance                                                           371
+Sore Throat                                                            10
+Barrett's Esophagus                                                    92
+Pain/Feve                                                              14
+Diverticulitis                                                         185
+Sinusitis                                                              1124
+Polycystic Ovary Syndrome                                              387
+Influenza                                                              467
+Hypothyroidism, After Thyroid Removal                                  188
+Onychomycosis, Toenail                                                 533
+Progesterone Insufficiency                                             21
+GERD                                                                   968
+Nausea/Vomiting, Postoperative                                         24
+Herpes Simplex                                                         515
+Gastroparesis                                                          51
+Gout, Acute                                                            252
+Motion Sickness                                                        275
+Multiple Sclerosis                                                     913
+Autism                                                                 121
+Otitis Media                                                           207
+Upper Respiratory Tract Infection                                      235
+Surgical Prophylaxis                                                   20
+Psoriatic Arthritis                                                    436
+Erosive Esophagitis                                                    90
+Premature Ventricular Depolarizations                                  8
+Stomach Ulce                                                           93
+Nausea/Vomiting                                                        1013
+Light Anesthesia                                                       41
+Angina Pectoris Prophylaxis                                            29
+Paranoid Disorde                                                       48
+Prostatitis                                                            115
+Extrapyramidal Reaction                                                35
+mance Anxiety                                                          259
+Night Terrors                                                          32
+High Cholesterol, Familial Heterozygous                                80
+Spondyloarthritis                                                      9
+Clostridial Infection                                                  45
+Dermatomyositis                                                        10
+Bronchiectasis                                                         13
+Nasal Congestion                                                       390
+Benign Essential Trem                                                  117
+Angina                                                                 123
+moterol / mometasone)                                                  36
+Impetig                                                                13
+Conjunctivitis, Bacterial                                              80
+Post Traumatic Stress Disorde                                          432
+Alcohol Withdrawal                                                     285
+Psoriasis                                                              796
+Cold Sores                                                             472
+Hyperhidrosis                                                          917
+Ankylosing Spondylitis                                                 270
+Hemorrhoids                                                            118
+Schizoaffective Disorde                                                523
+Not Listed / Othe                                                      592
+Rhinitis                                                               115
+Oral Thrush                                                            34
+Hyperlipoproteinemia                                                   16
+Neutropenia Associated with Chemotherapy                               54
+Osteoporosis                                                           458
+Reflex Sympathetic Dystrophy Syndrome                                  68
+Urticaria                                                              344
+Narcolepsy                                                             658
+Systemic Lupus Erythematosus                                           132
+Ulcerative Colitis                                                     313
+Adult Human Growth Hormone Deficiency                                  11
+Bacterial Vaginitis                                                    677
+COPD, Maintenance                                                      328
+Anorexia                                                               111
+TSH Suppression                                                        15
+Breast Cancer, Adjuvant                                                25
+Glaucoma                                                               43
+Cough and Nasal Congestion                                             469
+Inflammatory Conditions                                                406
+Urinary Incontinence                                                   232
+Gout                                                                   131
+Bladder Infection                                                      525
+Human Papillomavirus Prophylaxis                                       41
+Glioblastoma Multiforme                                                7
+Strep Throat                                                           158
+Bacterial Skin Infection                                               191
+Hereditary Angioedema                                                  24
+Cold Symptoms                                                          151
+Labor Pain                                                             29
+Dry Skin                                                               100
+Diabetes Insipidus                                                     21
+Methicillin-Resistant Staphylococcus Aureus Infection                  27
+Borderline Personality Disorde                                         201
+Amenorrhea                                                             118
+Pneumonia                                                              364
+Seborrheic Dermatitis                                                  40
+Interstitial Cystitis                                                  223
+Malaria Prevention                                                     59
+Prevention of Dental Caries                                            11
+Herbal Supplementation                                                 33
+Plaque Psoriasis                                                       430
+Raynaud's Syndrome                                                     63
+Addison's Disease                                                      13
+Prostate Cance                                                         170
+Allergies                                                              228
+Opioid-Induced Constipation                                            62
+moterol)                                                               113
+Diarrhea                                                               179
+Seasonal Allergic Conjunctivitis                                       89
+Opioid Overdose                                                        15
+Spondylolisthesis                                                      10
+Shift Work Sleep Disorde                                               84
+Obstructive Sleep Apnea/Hypopnea Syndrome                              117
+Nausea/Vomiting of Pregnancy                                           161
+Mucositis                                                              11
+Ulcerative Colitis, Active                                             175
+Head Lice                                                              99
+Tonsillitis/Pharyngitis                                                129
+Pseudotumor Cerebri                                                    90
+Parkinson's Disease                                                    170
+Sciatica                                                               164
+Cance                                                                  7
+Bacterial Endocarditis Prevention                                      11
+Diarrhea, Chronic                                                      71
+Hypertensive Emergency                                                 14
+Keratosis                                                              151
+Ovarian Cysts                                                          207
+Behcet's Disease                                                       16
+Chronic Idiopathic Constipation                                        82
+lic Acid Deficiency                                                    11
+Chronic Fatigue Syndrome                                               116
+Basal Cell Carcinoma                                                   73
+Cataplexy                                                              8
+Crohn's Disease, Maintenance                                           266
+Diabetic Peripheral Neuropathy                                         229
+Arrhythmia                                                             139
+Primary Ovarian Failure                                                19
+Influenza Prophylaxis                                                  35
+Agitated State                                                         46
+Heart Failure                                                          115
+atigue                                                                 74
+Opiate Withdrawal                                                      434
+Endometrial Hyperplasia, Prophylaxis                                   5
+Immunosuppression                                                      8
+Dystonia                                                               15
+Alopecia                                                               125
+Vulvodynia                                                             45
+Premenstrual Dysphoric Disorde                                         396
+Alcohol Dependence                                                     518
+Myasthenia Gravis                                                      53
+Social Anxiety Disorde                                                 522
+Atopic Dermatitis                                                      216
+Schistosoma japonicum                                                  2
+Sinus Symptoms                                                         107
+min / sitagliptin)                                                     34
+Dermatitis                                                             128
+Eye Redness                                                            74
+Warts                                                                  5
+Menorrhagia                                                            96
+Seizure Prevention                                                     254
+Ophthalmic Surgery                                                     10
+Skin Rash                                                              15
+Condylomata Acuminata                                                  36
+NSAID-Induced Ulcer Prophylaxis                                        6
+Tinea Versicol                                                         33
+Peripheral Neuropathy                                                  236
+Deep Vein Thrombosis                                                   110
+Heart Attack                                                           74
+Pulmonary Embolism, Recurrent Event                                    9
+Light Sedation                                                         83
+Acute Lymphoblastic Leukemia                                           6
+Hyperprolactinemia                                                     68
+Indigestion                                                            68
+Hepatitis B                                                            20
+Dysautonomia                                                           33
+Status Epilepticus                                                     9
+Postpartum Depression                                                  114
+Multiple Myeloma                                                       20
+Prevention of Hypokalemia                                              11
+Edema                                                                  134
+Urinary Retention                                                      3
+Prevention of Thromboembolism in Atrial Fibrillation                   204
+Cluster Headaches                                                      212
+Sexual Dysfunction, SSRI Induced                                       98
+Dermatitis Herpetiformis                                               1
+Temporomandibular Joint Disorde                                        40
+Burns, External                                                        60
+Actinic Keratosis                                                      37
+Pharyngitis                                                            26
+Melanoma, Metastatic                                                   24
+Atrial Flutte                                                          29
+Lyme Disease                                                           45
+Dry Eye Disease                                                        201
+Allergic Reactions                                                     115
+Hypertriglyceridemia                                                   99
+Pruritus                                                               61
+Carcinoid Tum                                                          6
+Muscle Pain                                                            119
+Colorectal Cance                                                       39
+Vitamin/Mineral Supplementation during Pregnancy/Lactation             99
+Nausea/Vomiting, Chemotherapy Induced                                  94
+Women (oxybutynin)                                                     6
+Primary Immunodeficiency Syndrome                                      47
+New Daily Persistent Headache                                          15
+Pneumococcal Disease Prophylaxis                                       35
+Burning Mouth Syndrome                                                 24
+Urinary Tract Stones                                                   144
+Pseudobulbar Affect                                                    25
+Eye Redness/Itching                                                    44
+Deep Vein Thrombosis, First Event                                      11
+Pulmonary Hypertension                                                 90
+Malaria                                                                26
+Sarcoidosis                                                            9
+Dietary Supplementation                                                124
+Bulimia                                                                74
+Tendonitis                                                             64
+Nasal Polyps                                                           17
+Hypokalemia                                                            5
+Anemia, Sickle Cell                                                    8
+Uveitis                                                                26
+Streptococcal Infection                                                16
+Perimenopausal Symptoms                                                65
+Asperger Syndrome                                                      19
+Tinea Corporis                                                         31
+Mania                                                                  73
+Renal Cell Carcinoma                                                   125
+COPD                                                                   204
+Biliary Cirrhosis                                                      11
+Vertig                                                                 124
+Reversal of Opioid Sedation                                            8
+Non-Hodgkin's Lymphoma                                                 25
+High Cholesterol, Familial Homozygous                                  17
+Periodic Limb Movement Disorde                                         60
+Supraventricular Tachycardia                                           121
+Hypoestrogenism                                                        30
+Juvenile Idiopathic Arthritis                                          24
+Swine Flu                                                              28
+Giardiasis                                                             22
+Binge Eating Disorde                                                   101
+Tourette's Syndrome                                                    89
+Trichomoniasis                                                         89
+acial Wrinkles                                                         43
+Pulmonary Embolism                                                     88
+Conjunctivitis, Allergic                                               94
+Avian Influenza                                                        2
+Hemangioma                                                             1
+Nocturnal Leg Cramps                                                   33
+Thyroid Suppression Test                                               1
+Muscle Twitching                                                       2
+Pupillary Dilation                                                     7
+Lennox-Gastaut Syndrome                                                25
+Opiate Adjunct                                                         13
+Postoperative Pain                                                     51
+Candida Urinary Tract Infection                                        6
+Cerebral Spasticity                                                    5
+Lipodystrophy                                                          10
+Androgenetic Alopecia                                                  65
+Computed Tomography                                                    17
+Mitral Valve Prolapse                                                  38
+Vitamin D Deficiency                                                   25
+Glaucoma, Open Angle                                                   75
+Endoscopy or Radiology Premedication                                   3
+Alzheimer's Disease                                                    117
+Gouty Arthritis                                                        43
+Paroxysmal Supraventricular Tachycardia                                4
+Deep Vein Thrombosis, Prophylaxis                                      20
+Gaucher Disease                                                        2
+Lymphocytic Colitis                                                    6
+Pancreatic Cance                                                       16
+Cystic Fibrosis                                                        19
+Noninfectious Colitis                                                  9
+Nephrocalcinosis                                                       4
+Iron Deficiency Anemia                                                 49
+mulation) (phenylephrine)                                              15
+Hiccups                                                                33
+Bronchospasm Prophylaxis                                               15
+Chronic Spasticity                                                     24
+min / saxagliptin)                                                     14
+Post-Cholecystectomy Diarrhea                                          14
+Postherpetic Neuralgia                                                 114
+Insomnia, Stimulant-Associated                                         30
+COPD, Acute                                                            35
+Herpes Simplex Dendritic Keratitis                                     6
+Oophorectomy                                                           37
+Cyclic Vomiting Syndrome                                               33
+Chronic Lymphocytic Leukemia                                           37
+Lyme Disease, Arthritis                                                8
+Pseudomembranous Colitis                                               3
+Conjunctivitis                                                         19
+min)                                                                   60
+Intraocular Hypertension                                               21
+Aphthous Ulce                                                          6
+Ulcerative Colitis, Maintenance                                        57
+Melasma                                                                100
+Lyme Disease, Neurologic                                               19
+ge (amlodipine / valsartan)                                            39
+Herpes Zoste                                                           35
+Cervical Dystonia                                                      77
+Labor Induction                                                        13
+Human Papilloma Virus                                                  141
+Chronic Pancreatitis                                                   21
+Polycythemia Vera                                                      12
+Dermatological Disorders                                               51
+Lewy Body Dementia                                                     3
+amilial Mediterranean Feve                                             6
+Neurosurgery                                                           3
+Gastroenteritis                                                        48
+Macular Edema                                                          10
+Tinea Pedis                                                            33
+Diagnosis and Investigation                                            22
+Gas                                                                    26
+Neuralgia                                                              125
+Local Anesthesia                                                       12
+Acute Coronary Syndrome                                                65
+Aspiration Pneumonia                                                   3
+Idiopathic Thrombocytopenic Purpura                                    14
+Onychomycosis, Fingernail                                              24
+Photoaging of the Skin                                                 35
+Premature Lab                                                          112
+Precocious Puberty                                                     31
+Prevention of Bladder infection                                        86
+Seasonal Affective Disorde                                             19
+Diabetic Kidney Disease                                                24
+Crohn's Disease, Acute                                                 58
+Insulin Resistance Syndrome                                            29
+Pudendal Neuralgia                                                     5
+Reiter's Syndrome                                                      5
+Amyotrophic Lateral Sclerosis                                          1
+Body Dysmorphic Disorde                                                10
+Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis    4
+Dandruff                                                               10
+Vitamin B12 Deficiency                                                 16
+Bone infection                                                         26
+Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis        2
+Iritis                                                                 9
+Allergic Urticaria                                                     28
+Cardiovascular Risk Reduction                                          5
+Giant Cell Tumor of Bone                                               2
+Babesiosis                                                             2
+Secondary Hyperparathyroidism                                          15
+Hypoparathyroidism                                                     11
+Performance Anxiety                                                    9
+Abortion                                                               9
+Skin Cance                                                             26
+Ovulation Induction                                                    24
+Liver Magnetic Resonance Imaging                                       4
+Vitamin/Mineral Supplementation and Deficiency                         30
+Herpes Simplex, Mucocutaneous/Immunocompetent Host                     16
+Anemia Associated with Chronic Renal Failure                           14
+Hyperphosphatemia of Renal Failure                                     26
+Dissociative Identity Disorde                                          2
+Anal Fissure and Fistula                                               17
+Herpes Simplex, Mucocutaneous/Immunocompromised Host                   7
+Scabies                                                                13
+Endometrial Cance                                                      10
+Transient Ischemic Attack                                              6
+Granuloma Annulare                                                     4
+Traveler's Diarrhea                                                    13
+Candidemia                                                             8
+t Pac with Cyclobenzaprine (cyclobenzaprine)                           2
+Hypoactive Sexual Desire Disorde                                       8
+Epicondylitis, Tennis Elbow                                            1
+Nightmares                                                             25
+Dientamoeba fragilis                                                   3
+Ventricular Tachycardia                                                34
+Dumping Syndrome                                                       8
+Myelodysplastic Syndrome                                               23
+Hypodermoclysis                                                        2
+zen Shoulde                                                            21
+Topical Disinfection                                                   5
+Perioral Dermatitis                                                    12
+Agitation                                                              14
+Intermittent Claudication                                              15
+Prevention of Osteoporosis                                             31
+Leukemia                                                               6
+Dermatitis Herpeti                                                     1
+mis                                                                    5
+Eosinophilic Esophagitis                                               5
+Hyperlipoproteinemia Type IIa, Elevated LDL                            17
+Endometrial Hyperplasia                                                9
+Peptic Ulce                                                            10
+Chronic Myofascial Pain                                                12
+Enterocolitis                                                          5
+Secondary Cutaneous Bacterial Infections                               1
+Syringomyelia                                                          2
+Postoperative Ocular Inflammation                                      32
+Persistent Depressive Disorde                                          15
+Otitis Externa                                                         37
+Organ Transplant, Rejection Prophylaxis                                65
+Intermittent Explosive Disorde                                         2
+Dermatophytosis                                                        7
+Inflammatory Bowel Disease                                             33
+Porphyria                                                              4
+Anemia                                                                 28
+Hyperuricemia Secondary to Chemotherapy                                1
+Wolff-Parkinson-White Syndrome                                         4
+eve                                                                    16
+Ectopic Pregnancy                                                      3
+Thyroid Cance                                                          14
+Tuberculosis, Latent                                                   13
+Nasal Carriage of Staphylococcus aureus                                9
+Systemic Candidiasis                                                   1
+Ear Wax Impaction                                                      8
+Hepatocellular Carcinoma                                               8
+Dyspareunia                                                            18
+Tic Disorde                                                            2
+Head and Neck Cance                                                    8
+Klinefelter Syndrome                                                   1
+Rhinorrhea                                                             6
+Soft Tissue Sarcoma                                                    29
+Diabetic Macular Edema                                                 10
+Menopausal Disorders                                                   13
+Anesthetic Adjunct                                                     4
+Tinea Cruris                                                           23
+tic (mycophenolic acid)                                                3
+Ischemic Stroke                                                        15
+Malignant Glioma                                                       2
+Thrombocythemia                                                        8
+Atrophic Urethritis                                                    27
+Systemic Sclerosis                                                     4
+Macular Degeneration                                                   27
+AIDS Related Wasting                                                   7
+Hemophilia A                                                           4
+Osteolytic Bone Lesions of Multiple Myeloma                            8
+Autoimmune Hemolytic Anemia                                            4
+ailure to Thrive                                                       3
+Strongyloidiasis                                                       2
+Vitamin K Deficiency                                                   2
+Ulcerative Proctitis                                                   13
+Premenstrual Syndrome                                                  19
+Primary Hyperaldosteronism                                             6
+Lactose Intolerance                                                    20
+Anal Itching                                                           7
+amilial Cold Autoinflammatory Syndrome                                 4
+Duodenal Ulce                                                          36
+Tuberculosis, Prophylaxis                                              3
+Neurosis                                                               2
+Turner's Syndrome                                                      5
+NSAID-Induced Gastric Ulce                                             10
+CNS Magnetic Resonance Imaging                                         4
+Atherosclerosis                                                        8
+Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery         5
+Gastritis/Duodenitis                                                   7
+Diarrhea, Acute                                                        15
+Costochondritis                                                        11
+Portal Hypertension                                                    1
+Glaucoma/Intraocular Hypertension                                      5
+Toothache                                                              2
+Benzodiazepine Withdrawal                                              24
+m Pain Disorde                                                         3
+Esophageal Candidiasis                                                 3
+Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery        2
+Peripheral Arterial Disease                                            6
+Deep Vein Thrombosis, Recurrent Event                                  11
+Pseudogout, Prophylaxis                                                1
+Lichen Planus                                                          14
+CMV Prophylaxis                                                        6
+Neuritis                                                               1
+Typhoid Feve                                                           2
+Tardive Dyskinesia                                                     2
+Ichthyosis                                                             3
+Juvenile Rheumatoid Arthritis                                          34
+B12 Nutritional Deficiency                                             9
+Primary Nocturnal Enuresis                                             8
+Dercum's Disease                                                       4
+Cutaneous Candidiasis                                                  22
+Gingivitis                                                             11
+Q Feve                                                                 1
+Hyperekplexia                                                          5
+Niacin Deficiency                                                      2
+Dietary Fiber Supplementation                                          9
+Nephrotic Syndrome                                                     7
+Pinworm Infection (Enterobius vermicularis)                            13
+Pancreatic Exocrine Dysfunction                                        15
+Nausea/Vomiting, Radiation Induced                                     4
+Schilling Test                                                         2
+Mild Cognitive Impairment                                              8
+Ischemic Stroke, Prophylaxis                                           30
+Gonococcal Infection, Uncomplicated                                    7
+Ovarian Cance                                                          18
+Eyelash Hypotrichosis                                                  5
+Meniere's Disease                                                      28
+Tinea Capitis                                                          7
+Lichen Sclerosus                                                       15
+min / pioglitazone)                                                    5
+Renal Transplant                                                       2
+Gout, Prophylaxis                                                      5
+von Willebrand's Disease                                               10
+Prevention of Atherothrombotic Events                                  5
+Small Fiber Neuropathy                                                 3
+min / rosiglitazone)                                                   2
+Peyronie's Disease                                                     2
+Autoimmune Hepatitis                                                   18
+llicular Lymphoma                                                      1
+Auditory Processing Disorde                                            9
+Herpes Zoster, Prophylaxis                                             7
+Submental Fullness                                                     4
+Lactation Augmentation                                                 13
+Radionuclide Myocardial Perfusion Study                                2
+Prevention of Cardiovascular Disease                                   14
+Varicella-Zoste                                                        7
+Pelvic Inflammatory Disease                                            13
+Intraabdominal Infection                                               11
+Croup                                                                  2
+Dermatologic Lesion                                                    14
+Hyperlipoproteinemia Type IV, Elevated VLDL                            2
+Expectoration                                                          16
+Primary Hyperaldosteronism Diagnosis                                   1
+Abdominal Distension                                                   2
+Salivary Gland Cance                                                   2
+Pulmonary Embolism, First Event                                        7
+Postpartum Breast Pain                                                 1
+Postural Orthostatic Tachycardia Syndrome                              36
+Pediatric Growth Hormone Deficiency                                    12
+Hypomagnesemia                                                         5
+ge HCT (amlodipine / hydrochlorothiazide / valsartan)                  4
+Hairy Cell Leukemia                                                    2
+Histoplasmosis                                                         4
+Hypoglycemia                                                           4
+Brain Tum                                                              8
+Gastrointestinal Stromal Tum                                           12
+Tetanus                                                                2
+Breast Cancer, Prevention                                              9
+ICU Agitation                                                          6
+Women (minoxidil)                                                      1
+Peripheral T-cell Lymphoma                                             4
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy              4
+Pathological Hypersecretory Conditions                                 2
+Oral and Dental Conditions                                             5
+Antiphospholipid Syndrome                                              5
+Ventricular Arrhythmia                                                 2
+Asystole                                                               1
+Wegener's Granulomatosis                                               8
+Thromboembolic Stroke Prophylaxis                                      5
+Platelet Aggregation Inhibition                                        4
+Sleep Paralysis                                                        2
+Rejection Prophylaxis                                                  3
+Delayed Puberty, Male                                                  2
+Ascariasis                                                             4
+Acute Promyelocytic Leukemia                                           4
+Bartonellosis                                                          1
+Cyclothymic Disorde                                                    6
+Hypokalemic Periodic Paralysis                                         2
+Varicose Veins                                                         3
+Mononucleosis                                                          3
+Cachexia                                                               2
+Hyperkalemia                                                           4
+Still's Disease                                                        8
+Dementia                                                               5
+Ocular Rosacea                                                         3
+Hidradenitis Suppurativa                                               6
+SIADH                                                                  5
+Bullous Pemphigoid                                                     8
+Angioedema                                                             2
+Mountain Sickness / Altitude Sickness                                  11
+Severe Mood Dysregulation                                              3
+Cutaneous T-cell Lymphoma                                              4
+Adrenocortical Insufficiency                                           11
+Myxedema Coma                                                          2
+Small Bowel Bacterial Overgrowth                                       3
+Sunburn                                                                4
+Transverse Myelitis                                                    1
+Squamous Cell Carcinoma                                                4
+Parkinsonism                                                           2
+Thyrotoxicosis                                                         2
+Epididymitis, Sexually Transmitted                                     2
+Neck Pain                                                              4
+Bleeding Disorde                                                       9
+actor IX Deficiency                                                    4
+Melanoma                                                               6
+Thrombocytopenia                                                       2
+Esophageal Variceal Hemorrhage Prophylaxis                             4
+Glioblastoma Multi                                                     7
+Cholera                                                                2
+Anorexia/Feeding Problems                                              3
+Peritonitis                                                            6
+AV Heart Block                                                         1
+Pe                                                                     9
+Wilson's Disease                                                       1
+Nonalcoholic Fatty Liver Disease                                       2
+Sepsis                                                                 1
+Anthrax                                                                3
+Body Imaging                                                           2
+Aggressive Behavi                                                      2
+Hepatic Tum                                                            2
+Ehrlichiosis                                                           2
+Hypopituitarism                                                        1
+Gender Dysphoria                                                       4
+Infectious Diarrhea                                                    1
+Ventricular Fibrillation                                               7
+Anaphylaxis                                                            2
+Pemphigus                                                              4
+Multiple Endocrine Adenomas                                            1
+Pre-Exposure Prophylaxis                                               6
+Postoperative Increased Intraocular Pressure                           2
+Pruritus of Partial Biliary Obstruction                                1
+Pertussis                                                              3
+Periodontitis                                                          7
+Lymphoma                                                               11
+Hypercalcemia of Malignancy                                            7
+Pityriasis rubra pilaris                                               3
+Amebiasis                                                              6
+t Care                                                                 2
+Hepatic Encephalopathy                                                 16
+Deep Neck Infection                                                    7
+Meningitis, Meningococcal                                              1
+Parkinsonian Trem                                                      1
+Rabies Prophylaxis                                                     1
+Hypotension                                                            6
+Myelofibrosis                                                          2
+cal Segmental Glomerulosclerosis                                       5
+Gastric Ulcer Maintenance Treatment                                    7
+Paget's Disease                                                        4
+Infection Prophylaxis                                                  9
+Gastrointestinal Decontamination                                       6
+Mixed Connective Tissue Disease                                        3
+Somatoform Pain Disorde                                                1
+Esophageal Spasm                                                       1
+Campylobacter Gastroenteritis                                          2
+Hyperphosphatemia                                                      3
+Oligospermia                                                           5
+Wound Cleansing                                                        1
+Euvolemic Hyponatremia                                                 2
+Gallbladder Disease                                                    3
+Mycobacterium avium-intracellulare, Treatment                          8
+Oppositional Defiant Disorde                                           2
+Legionella Pneumonia                                                   1
+Breast Cancer, Palliative                                              4
+Hydrocephalus                                                          1
+Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL                1
+Anaplastic Astrocytoma                                                 4
+Dupuytren's contracture                                                4
+Mumps Prophylaxis                                                      1
+Skin Disinfection, Preoperative                                        6
+Hyperbilirubinemia                                                     1
+Meningitis                                                             3
+Corneal Ulce                                                           1
+acial Lipoatrophy                                                      2
+Percutaneous Coronary Intervention                                     5
+Hepatitis B Prevention                                                 1
+Tuberculosis, Active                                                   1
+Cerebrovascular Insufficiency                                          1
+Head Injury                                                            6
+Anti NMDA Receptor Encephalitis                                        1
+Nonoccupational Exposure                                               5
+Gonadotropin Inhibition                                                2
+unctional Gastric Disorde                                              1
+Chronic Eosinophilic Leukemia                                          2
+Acetaminophen Overdose                                                 2
+Duodenal Ulcer Prophylaxis                                             2
+Paragonimus westermani, Lung Fluke                                     1
+Alpha-1 Proteinase Inhibitor Deficiency                                6
+Cogan's Syndrome                                                       1
+Uterine Bleeding                                                       5
+Stomach Cance                                                          2
+Sporotrichosis                                                         1
+Cluster-Tic Syndrome                                                   1
+Gestational Diabetes                                                   1
+Stress Ulcer Prophylaxis                                               4
+Reversal of Nondepolarizing Muscle Relaxants                           2
+Solid Tumors                                                           2
+mist (                                                                 2
+Schnitzler Syndrome                                                    4
+Hypocalcemia                                                           7
+Meningococcal Meningitis Prophylaxis                                   2
+Nocardiosis                                                            2
+Hemophilia B                                                           2
+Microscopic polyangiitis                                               1
+Gonococcal Infection, Disseminated                                     2
+Neurotic Depression                                                    1
+Keratitis                                                              2
+Hodgkin's Lymphoma                                                     1
+me                                                                     2
+STD Prophylaxis                                                        4
+Small Bowel or Pancreatic Fistula                                      2
+Prevention of Perinatal Group B Streptococcal Disease                  1
+Cerebral Edema                                                         2
+Testicular Cance                                                       2
+Short Stature for Age                                                  1
+Aspergillosis, Aspergilloma                                            2
+Pemphigoid                                                             2
+Hyperparathyroidism Secondary to Renal Impairment                      2
+Ramsay Hunt Syndrome                                                   1
+Cutaneous Larva Migrans                                                2
+Occipital Neuralgia                                                    5
+Blepharitis                                                            3
+Patent Ductus Arteriosus                                               1
+Joint Infection                                                        2
+Manscaping Pain                                                        1
+Strabismus                                                             2
+Organ Transplant, Rejection Reversal                                   2
+Leukocytoclastic Vasculitis                                            2
+Coronary Artery Disease                                                3
+Gastric Cance                                                          1
+ibrocystic Breast Disease                                              2
+ungal Infection Prophylaxis                                            1
+Short Stature                                                          1
+Hypercalcemia                                                          1
+Coccidioidomycosis                                                     2
+Cyclitis                                                               2
+Anemia, Chemotherapy Induced                                           4
+Upper Limb Spasticity                                                  2
+Diagnostic Bronchograms                                                1
+Neoplastic Diseases                                                    1
+Mycoplasma Pneumonia                                                   3
+Linear IgA Disease                                                     1
+Subarachnoid Hemorrhage                                                2
+Myeloproliferative Disorders                                           2
+ungal Pneumonia                                                        1
+Scleroderma                                                            1
+Zollinger-Ellison Syndrome                                             2
+Tinea Barbae                                                           1
+Acute Nonlymphocytic Leukemia                                          2
+Neutropenia                                                            2
+Rat-bite Feve                                                          1
+Uveitis, Posteri                                                       1
+Premature Ejaculation                                                  1
+Polymyositis/Dermatomyositis                                           2
+Corneal Refractive Surgery                                             2
+Gastrointestinal Hemorrhage                                            2
+Bacteremia                                                             2
+Jet Lag                                                                1
+llicle Stimulation                                                     4
+Myotonia Congenita                                                     1
+Aplastic Anemia                                                        3
+Hemorrhoids (pramoxine / zinc oxide)                                   1
+Salmonella Gastroenteritis                                             2
+Somat                                                                  1
+Nausea (phosphorated carbohydrate solution)                            1
+Occupational Exposure                                                  2
+Tympanostomy Tube Placement Surgery                                    1
+Pulmonary Edema                                                        1
+Mantle Cell Lymphoma                                                   2
+Lyme Disease, Erythema Chronicum Migrans                               1
+Renal Tubular Acidosis                                                 2
+Yellow Fever Prophylaxis                                               1
+Acute Otitis Externa                                                   2
+Steroid Responsive Inflammatory Conditions                             1
+Pertussis Prophylaxis                                                  1

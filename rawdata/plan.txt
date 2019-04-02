@@ -1,0 +1,58 @@
+ideas for final project
+
+we have data on pharmaceutical drugs
+
+each data point has:
+name of drug
+drug target (i.e. disease/condition)
+comment on effectiveness (patient review)
+rating out of 10
+date review was submitted
+number of times people thought review was helpful
+
+things I can add:
+molecular mass of drug
+number of C,H, heteroatoms in drug
+fingerprint for drug (openbabel)
+
+we can:
+do an analysis to try and predict rating out of 10
+or do classification to predict (low <4, med 3< and <8, or high >7)
+
+try to cluster the drugs based on drug target
+note: in the paper where the data is presented, they
+found that the 5 most frequent disorders were
+contraception (38436), depression (12164), anxiety
+(7812), and type-2 diabetes (3362)
+so we could go through all of the reviews and try
+to classify each as one of these 5 groups (group
+everything else as some test data)
+then try to see which of the test data can be grouped
+in the clusters formed by the data expressedly in
+the 5 biggest groups
+
+6345 drugs total with 836 conditions
+
+plan
+1) make new data set of the 6345 drugs by going through
+this data as raw dataset
+2) each drug should have the following entries:
+        name
+        mol mass
+        num C
+        num H 
+        num hetero
+        fingerprint (I assume this is a float)
+        drug target(s)
+        drug group (5 total)
+        med. comment length
+        med. rating out of 10
+        sum of # of people finding reviews helpful*
+        
+* not entirely sure of this last column
+the problem is that the vote for the review being
+helpful is tied to the specific review
+in any event, the sum will give a measure of how
+many other people are reading the drug reviews
+who did not make the drug review themselves
+so I guess it can be a sort of drug popularity measure

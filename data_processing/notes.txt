@@ -1,0 +1,32 @@
+
+CONDITIONS
+entries with </span> were removed (poor html scraping)
+i.e. some drugs do not have conditions
+the text instead states the number of people who found the review helpful
+
+the terminal "r" character seems to have been removed
+from some of the conditions
+(example: ucle instead of ulcer, cance instead of cancer, disorde instead
+of disorder)
+
+DRUGS
+there are some drug mixtures:
+example: Aspirin / caffeine / salicylamide
+I'm hoping that the primary component is the first listed, but I can't be sure.
+Probably best to removed these completely from the database.
+Other weird stuff like XL or 7 / 7 / 7 in the name that isn't going to work
+well with a pubchem search.
+names like "Todays Health Nasal  Relief Extra Moisturizing" also will not work
+in a pubchem search
+
+paper claims 3654 drugs; there are 3671 listed in what I pulled from the raw
+data (must have removed some)
+
+in some cases there are drugs that are the same, just different doses
+example: Augmentin XR, Augmentin, and Augmentin ES-600, which all show up in
+pubchem as the same molecule
+
+there are a lot of drugs where the frequency is 1 (798), so it seems unlikely
+that the original data on patient satisfaction will be helpful in predictions
+
+
